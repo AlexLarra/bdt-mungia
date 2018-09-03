@@ -19,8 +19,8 @@ description: >-
   Página estática para asociar el banco de tiempo con Mungia en vez de con
   Butroi Bizirik por SEO, ya que las búsquedas se hacen por localidad y no por
   comarca.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://alexlarra.github.io/bdt-mungia/
+baseurl: /bdt-mungia # the subpath of your site, e.g. /blog
+url: https://alexlarra.github.io
 github_url: https://github.com/alexlarra/bdt-mungia
 github_username: alexlarra
 

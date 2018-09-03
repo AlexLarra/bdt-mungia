@@ -18,7 +18,7 @@ title: Home
 
 # ¿Cómo funciona?
 
-  [Timeoverflow](https://github.com/coopdevs/timeoverflow){:target="_blank"}
+  Usamos [Timeoverflow](https://github.com/coopdevs/timeoverflow){:target="_blank"},
   es un software libre que nos proporciona el sistema
   de gestión para nuestro banco de tiempo.
   Aquí el usuario podrá intercambiar servicios y las horas irán
